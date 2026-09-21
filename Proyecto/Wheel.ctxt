@@ -1,0 +1,28 @@
+#BlueJ class context
+#Sun Sep 20 18:26:17 COT 2026
+comment0.target=Wheel
+comment1.params=initialSymbols x y
+comment1.target=Wheel(java.util.ArrayList, int, int)
+comment10.target=int getSymbolCount()
+comment11.params=color
+comment11.target=boolean placesymbol(java.lang.String)
+comment12.target=void spin()
+comment13.target=Symbol getVisibleSymbol()
+comment14.target=java.lang.String[] getSymbolsArray()
+comment15.target=void lock()
+comment15.text=\r\n  ciclo 2 a\u00F1adir bloqueos a las ruedas y cambiar de lugar\r\n
+comment16.target=void unlock()
+comment17.target=boolean islocked()
+comment2.target=void initvisuals()
+comment3.params=newX newY
+comment3.target=void movewheel(int, int)
+comment4.target=void makeVisible()
+comment5.target=void makeInvisible()
+comment6.params=color
+comment6.target=void addSymbol(java.lang.String)
+comment7.params=color
+comment7.target=boolean delSymbol(java.lang.String)
+comment8.params=color
+comment8.target=boolean containsSymbol(java.lang.String)
+comment9.target=void updatevisualSymbol()
+numComments=18

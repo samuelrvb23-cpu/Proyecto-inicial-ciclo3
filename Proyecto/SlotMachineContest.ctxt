@@ -1,0 +1,16 @@
+#BlueJ class context
+#Sun Sep 20 18:32:20 COT 2026
+comment0.target=SlotMachineContest
+comment0.text=\r\n Solver para la maraton de la SlotMachine.\r\n\r\n El Solver solamente puede obtener informacion de la maquina mediante\:\r\n SlotMachine(n)\r\n spin(wheel, steps)\r\n distinctSymbols()\r\n
+comment1.params=n
+comment1.target=int solve(int)
+comment1.text=\r\n Resuelve el juego manteniendo la maquina invisible.\r\n\r\n @param n cantidad de ruedas\r\n @return cantidad total de movimientos realizados\r\n
+comment2.params=n
+comment2.target=int simulate(int)
+comment2.text=\r\n Resuelve el juego mostrando la maquina durante el proceso.\r\n Utiliza exactamente la misma estrategia que solve().\r\n\r\n @param n cantidad de ruedas\r\n @return cantidad total de movimientos realizados\r\n
+comment3.params=machine n visual
+comment3.target=int resolver(SlotMachine, int, boolean)
+comment3.text=\r\n Recorre sistematicamente las configuraciones posibles\r\n de las ruedas hasta encontrar el jackpot.\r\n
+comment4.target=void pausaVisual()
+comment4.text=\r\n Pausa utilizada solamente para mostrar la animacion.\r\n
+numComments=5

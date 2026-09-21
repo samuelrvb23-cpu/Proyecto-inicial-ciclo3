@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Sep 20 20:01:06 COT 2026
+comment0.target=SlotMachineContestCTest
+comment0.text=\r\n The test class SlotMachineContestCTest.\r\n\r\n @author  Juan Miguel Nope Ascencio\r\n @author Samuel Ricardo Rojas Barrag\u00E1n\r\n @version 1.0 (2026)\r\n
+comment1.target=void accordingNaRbShouldSolve()
+comment2.target=void accordingNaRbShouldfail()
+numComments=3

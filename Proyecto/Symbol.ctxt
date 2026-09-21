@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Sep 20 18:07:54 COT 2026
+comment0.target=Symbol
+comment0.text=\r\n Write a description of class Symbol here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=color value
+comment1.target=Symbol(java.lang.String, int)
+comment1.text=\r\n Constructor for objects of class Symbol\r\n
+comment2.target=java.lang.String getcolor()
+comment3.target=int getvalue()
+comment4.params=color
+comment4.target=void setColor(java.lang.String)
+comment5.params=value
+comment5.target=void setValue(int)
+numComments=6
